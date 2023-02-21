@@ -1,0 +1,3 @@
+# Project exclude paths
+/tanhua-app-server/target/
+/tanhua-autoconfig/target/
